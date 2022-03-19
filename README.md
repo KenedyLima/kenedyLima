@@ -1,12 +1,8 @@
 ### Wassup 
 
 - 🌱 I’m currently learning JavaScript and Spring Framework
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on open sources
+- 💬 Ask me about Java
+- 📫 How to reach me: kenedytorreslima@gmail.com  
+- ⚡ Fun fact: i don't like apples
 
-![java branding](https://img2.gratispng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg)
