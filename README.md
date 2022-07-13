@@ -1,4 +1,4 @@
-## Hello! My name's Kenedy, Junior Developer and Problem Solver, nice to meet you!
+### Hello! My name's Kenedy, Junior Developer and Problem Solver, nice to meet you!
 <div align="center">
   <a href="https://github.com/KenedyLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KenedyLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
